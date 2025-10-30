@@ -8,7 +8,7 @@
         <a href="https://x.com/exclipsensfw" target="_blank">NSFW Twitter</a></span> |
         <a href="https://admiralexclipse.tumblr.com" target="_blank">Tumblr</a> |
         <a href="https://subscribestar.adult/soldierexclipse" target="_blank">SubscribeStar</a> |
-        <a href="https://www.etsy.com/shop/AdmiralExclipse" target="_blank">Etsy</a>
+        <a href="https://www.redbubble.com/people/admiralexclipse/shop?asc=u" target="_blank">Redbubble</a>
     </div>
     <% if (ctx.canListPosts) { %>
         <form class='horizontal'>
