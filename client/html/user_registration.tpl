@@ -45,8 +45,7 @@
     <div class='info'>
         <p>Registered users can:</p>
         <ul>
-            <li><i class='fa fa-upload'></i> upload new posts</li>
-            <li><i class='fa fa-heart'></i> mark them as favorite</li>
+            <li><i class='fa fa-heart'></i> mark posts as favorites</li>
             <li><i class='fa fa-commenting-o'></i> add comments</li>
             <li><i class='fa fa-star-half-o'></i> vote up/down on posts and comments</li>
         </ul>

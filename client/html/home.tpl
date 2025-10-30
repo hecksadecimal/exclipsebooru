@@ -3,6 +3,13 @@
     <header>
         <h1><%- ctx.name %></h1>
     </header>
+    <div class='pre-info-container'>
+        <span><a href="https://x.com/admiralexclipse" target="_blank">Twitter</a> |
+        <a href="https://x.com/exclipsensfw" target="_blank">NSFW Twitter</a></span> |
+        <a href="https://admiralexclipse.tumblr.com" target="_blank">Tumblr</a> |
+        <a href="https://subscribestar.adult/soldierexclipse" target="_blank">SubscribeStar</a> |
+        <a href="https://www.etsy.com/shop/AdmiralExclipse" target="_blank">Etsy</a>
+    </div>
     <% if (ctx.canListPosts) { %>
         <form class='horizontal'>
             <%= ctx.makeTextInput({name: 'search-text', placeholder: 'enter some tags'}) %>

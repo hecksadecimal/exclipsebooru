@@ -6,7 +6,7 @@ const defaultSettings = {
     listPosts: {
         safe: true,
         sketchy: true,
-        unsafe: false,
+        unsafe: true,
     },
     upscaleSmallPosts: false,
     endlessScroll: false,
@@ -17,7 +17,7 @@ const defaultSettings = {
     autoplayVideos: false,
     postsPerPage: 42,
     tagUnderscoresAsSpaces: false,
-    darkTheme: false,
+    darkTheme: true,
     postFlow: false,
 };
 
